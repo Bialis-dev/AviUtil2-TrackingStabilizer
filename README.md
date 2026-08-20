@@ -1,6 +1,11 @@
 # TrackingStabilizer for AviUtl ExEdit2
 
-AviUtl ExEdit2 向けの手ブレ補正(スタビライズ)フィルタ効果プラグインです。
+# あろうことかAviUtlのつづりを間違えていたので、新サイトへ引越ししました。
+# こちらのページはもう更新されません。
+# [引っ越し先はこちら](https://github.com/Bialis-dev/TrackingStabilizer-for-AviUtl-ExEdit2/releases)
+ああ恥ずかしい。
+
+AviUtil ExEdit2 向けの手ブレ補正(スタビライズ)フィルタ効果プラグインです。
 
 [使い方の紹介動画はこちら (ニコニコ動画)](https://www.nicovideo.jp/watch/sm46693942)
 
@@ -45,6 +50,7 @@ AviUtl ExEdit2 向けの手ブレ補正(スタビライズ)フィルタ効果プ
 ## 使い方
 
 解説動画もあります: [使い方の紹介動画 (ニコニコ動画)](https://www.nicovideo.jp/watch/sm46693942)
+
 
 1. モーショントラッキングプラグインで追跡用の図形を作成する
    - 「部分フィルタとして挿入」はOFFのまま(実体のある図形オブジェクトとして
