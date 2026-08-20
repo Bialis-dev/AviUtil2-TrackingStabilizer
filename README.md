@@ -2,9 +2,10 @@
 
 AviUtl ExEdit2 向けの手ブレ補正(スタビライズ)フィルタ効果プラグインです。
 
+[使い方の紹介動画はこちら (ニコニコ動画)](https://www.nicovideo.jp/watch/sm46693942)
+
 [MotionTracking MK-II Plus for AviUtl2](https://github.com/putiapoto/MotionTracking_MK-II_Plus_for_AviUtl2)
-など、モーショントラッキングプラグインが出力した追跡点(図形オブジェクト)の
-座標を読み取り、基準フレームからの移動量を打ち消す方向に映像を動かすことで、
+が出力した追跡点(図形オブジェクト)の座標を読み取り、基準フレームからの移動量を打ち消す方向に映像を動かすことで、
 手ブレを補正します。
 
 自前の画像処理は行わず、AviUtl ExEdit2 本体が持つ「他オブジェクトの座標を
