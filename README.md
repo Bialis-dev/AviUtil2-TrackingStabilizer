@@ -2,7 +2,7 @@
 
 # あろうことかAviUtlのつづりを間違えていたので、新サイトへ引越ししました。
 # こちらのページはもう更新されません。
-# [引っ越し先はこちら](https://github.com/Bialis-dev/TrackingStabilizer-for-AviUtl-ExEdit2/releases)
+[引っ越し先はこちら](https://github.com/Bialis-dev/TrackingStabilizer-for-AviUtl-ExEdit2/)
 ああ恥ずかしい。
 
 AviUtil ExEdit2 向けの手ブレ補正(スタビライズ)フィルタ効果プラグインです。
